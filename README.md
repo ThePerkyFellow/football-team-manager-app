@@ -14,3 +14,5 @@ The app stays interactive due to the use of PyFiglet to add some graphical eleme
 Create a Database named football_team_manager.
 
 Run this command to create the table "create table football_team Name varchar(225) primary key, Age int, Gender varchar(225),Weight int,Phone_no int;" without the quotes.
+
+![Screenshot 2021-08-31 151437](https://user-images.githubusercontent.com/49780803/131481022-6e259a99-d4d3-498c-9977-fbddb383a57e.jpg)
